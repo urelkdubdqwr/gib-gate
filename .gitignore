@@ -2,3 +2,5 @@ node_modules/
 .env
 src/_probe.mjs
 *.log
+demo/frames/
+demo/_video.py
