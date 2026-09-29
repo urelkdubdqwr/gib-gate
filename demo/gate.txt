@@ -1,0 +1,10 @@
+🎯 Gibwork Developer Hackathon Bounty
+   payout: 1000 USD (USDC)  ·  min payout: 50  ·  credits/attempt: 1
+   competition: 5 pending / 0 approved / 5 total
+
+🚦 HIDDEN SUBMISSION GATES
+  ⛔ [BLOCKER] Discord guild/role required: guild 1004566368475164683 + role(s) 1546941199859060768 — must join + be granted the role before submitting
+  ⚠️ [WARN] Each attempt costs credits: 1 credit per submission — incomplete entries burn credits
+  ℹ️ [INFO] Deadline: 2026-10-30T04:00:00.000Z (30 days left)
+
+🚦 VERDICT: NO-GO — Discord guild/role required
