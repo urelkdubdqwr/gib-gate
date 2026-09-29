@@ -1,0 +1,2 @@
+node v26.8.1 · signer Bvyj3LuVW9UJ8TtuMN5vZqRQNTn7SDNJ3yWtMmS7sbhi · SDK/MCP installed
+@gibwork/sdk listAvailable: OK (1 row)

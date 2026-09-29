@@ -1,0 +1,32 @@
+🎯 Gibwork Developer Hackathon Bounty
+
+🚦 HIDDEN SUBMISSION GATES
+  ⛔ [BLOCKER] Discord guild/role required: guild 1004566368475164683 + role(s) 1546941199859060768 — must join + be granted the role before submitting
+  ⚠️ [WARN] Each attempt costs credits: 1 credit per submission — incomplete entries burn credits
+  ℹ️ [INFO] Deadline: 2026-10-30T04:00:00.000Z (30 days left)
+
+📋 BOUNTY "WHAT TO SUBMIT" CHECKLIST (6 items)
+  • A public GitHub repository URL for the completed bounty project, including all source code and a README.
+  • A short written summary in the repository README or shared document explaining the bounty use case, why it is valuable, and which Gibwork toolset was used (SDK, CLI, or MCP).
+  • Setup and usage instructions for the bounty project, including installation steps, environment variables, commands to run, and sample input/output.
+  • A screen recording or demo video URL showing the bounty workflow from setup or execution through successful output.
+  • Screenshots of the bounty project running, such as terminal output, logs, agent interactions, or generated results.
+  • Any exported deliverables produced by the bounty project, such as output files, reports, generated artifacts, or shared document links, if applicable.
+
+📁 REPO READINESS — 8/8 automated checks passed (100%)  [repo: .]
+  ✅ Public GitHub repo with source + README
+  ✅ Written summary (use case, value, toolset used)
+  ✅ Setup + install instructions
+  ✅ Environment variables documented
+  ✅ Commands to run / sample I/O
+  ✅ License
+  ✅ Demo video / recording referenced
+  ✅ Screenshots (terminal/logs/agent output)
+  🔎 A public GitHub repository URL for the completed bounty project, including all source code and a README.
+  🔎 A short written summary in the repository README or shared document explaining the bounty use case, why it is valuable, and which Gibwork toolset was used (SDK, CLI, or MCP).
+  🔎 Setup and usage instructions for the bounty project, including installation steps, environment variables, commands to run, and sample input/output.
+  🔎 A screen recording or demo video URL showing the bounty workflow from setup or execution through successful output.
+  🔎 Screenshots of the bounty project running, such as terminal output, logs, agent interactions, or generated results.
+  🔎 Any exported deliverables produced by the bounty project, such as output files, reports, generated artifacts, or shared document links, if applicable.
+
+🚦 VERDICT: NO-GO — Discord guild/role required
