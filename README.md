@@ -6,6 +6,22 @@
 
 ---
 
+## Demo
+
+**The moment it earns its name** — `gib-gate gate` surfaces a Discord-role blocker that the Gibwork UI buries, before you write a line of code:
+
+![gib-gate gate — hidden submission gates](demo/screenshot-gate.png)
+
+**Submission readiness** — `gib-gate audit` checks your repo against the bounty's own "What to Submit" checklist and tells you what's missing:
+
+![gib-gate audit — submission readiness](demo/screenshot-audit.png)
+
+**Screen recording** of the workflow: [`demo/demo-gate.mp4`](demo/demo-gate.mp4) (13s)
+
+Raw captured output lives in [`demo/*.txt`](demo/). Tests: `node --test` (4/4 pass).
+
+---
+
 ## Why this exists
 
 Every existing Gibwork tool answers *"which bounty should I work on?"* — they **discover, rank, watch, and verify escrow**. That space is crowded.
