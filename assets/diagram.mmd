@@ -1,0 +1,13 @@
+flowchart TD
+    U["gib-gate gate / audit / list <br/> (CLI or MCP stdio server)"] --> F["fetchTask(id)"]
+    F -->|"GIBWORK_KEYPAIR_PATH set"| SDK["@gibwork/sdk · tasks.get / listAvailable<br/>(throwaway keypair signs read-only challenge)"]
+    F -->|"no auth fallback"| API["gib.work/api/tasks/{id}<br/>(same endpoint the web app calls)"]
+    SDK --> G["extractGates(t)<br/>requiredDiscordRoleIds · creditCostPerSubmission<br/>maxSubmissions · deadline · Twitter/verified flags"]
+    API --> G
+    API --> C["extractChecklist(t)<br/>'What to Submit' + 'Requirements' sections"]
+    R["auditRepo(--repo)<br/>README · summary · setup · env vars<br/>commands · license · demo · screenshots"] --> A
+    C --> A["readiness matrix<br/>passed/totalAuto · score%"]
+    G --> V["verdict(gates, audit)<br/>GO · CONDITIONAL · NOT-READY · NO-GO<br/>+ fix-list"]
+    A --> V
+    V --> O["stdout report"]
+    V --> M["MCP tools: gib_submission_gate<br/>gib_submission_audit · gib_list_bounties"]
